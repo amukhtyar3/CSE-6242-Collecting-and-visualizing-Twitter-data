@@ -1,0 +1,3 @@
+The layout used in the visualization is a Force Atlas layout. 
+Parameters tuned include:
+Sizes checked, repulsion strength = 10000 to ensure that the nodes were separate and labels were minimally overlapping Only labels of PoloChau’s immediate friends are made visible using data laboratoryNode color is assigned according to modular groups and size of node proportional to degree

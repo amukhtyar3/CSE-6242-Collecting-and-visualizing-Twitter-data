@@ -1,0 +1,1 @@
+1. Average node degree =2.046This indicates the number of edges adjacent to the node.2. Diameter of the graph = 4 Maximum graph distance between a pair of nodes if graph distance between 2 connected nodes is 3. Average path length = 2.668Average graph distance between all pairs of nodes
